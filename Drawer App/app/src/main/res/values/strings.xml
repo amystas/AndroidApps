@@ -10,4 +10,17 @@
     <string name="menu_home">Zadanie 1</string>
     <string name="menu_gallery">Zadanie 2</string>
     <string name="menu_slideshow">Zadanie 3</string>
+    <string name="task_4">Zadanie 1</string>
+    <string name="task_5">Zadanie 2</string>
+    <string name="task_6">Zadanie 6</string>
+    <string name="task_7">Zadanie 7</string>
+    <string name="task_8">Zadanie 8</string>
+    <string name="task_9">Zadanie 9</string>
+    <string name="task_10">Zadanie 10</string>
+    <string name="task_11">Zadanie 11</string>
+    <string name="task_12">Zadanie 12</string>
+    <string name="task_13">Zadanie 13</string>
+    <string name="task_14">Zadanie 14</string>
+    <string name="task_15">Zadanie 15</string>
+    <string name="task_16">Zadanie 16</string>
 </resources>

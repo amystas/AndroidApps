@@ -16,5 +16,57 @@
             android:id="@+id/nav_slideshow"
             android:icon="@drawable/ic_menu_slideshow"
             android:title="@string/menu_slideshow" />
+        <item
+            android:id="@+id/task_4"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/task_4" />
+        <item
+            android:id="@+id/task_5"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/task_5" />
+        <item
+            android:id="@+id/task_6"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/task_6" />
+        <item
+            android:id="@+id/task_7"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/task_7" />
+        <item
+            android:id="@+id/task_8"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/task_8" />
+        <item
+            android:id="@+id/task_9"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/task_9" />
+        <item
+            android:id="@+id/task_10"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/task_10" />
+        <item
+            android:id="@+id/task_11"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/task_11" />
+        <item
+            android:id="@+id/task_12"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/task_12" />
+        <item
+            android:id="@+id/task_13"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/task_13" />
+        <item
+            android:id="@+id/task_14"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/task_14" />
+        <item
+            android:id="@+id/task_15"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/task_15" />
+        <item
+            android:id="@+id/task_16"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/task_16" />
     </group>
 </menu>
