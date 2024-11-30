@@ -1,13 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context=".ui.task6.Task6Fragment">
 
-    <TextView
+    <EditText
+        android:id="@+id/editTextText"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="Hello" />
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Zapisz element listy"
+        android:inputType="text" />
 
-</FrameLayout>
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="match_parent"
+        android:layout_height="632dp">
+
+    </ListView>
+
+    <Button
+        android:id="@+id/addButton"
+        android:layout_width="133dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:backgroundTint="#F4548A"
+        android:textColor="@color/white"
+        android:text="Add" />
+
+</LinearLayout>
